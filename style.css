@@ -6,3 +6,13 @@ h1 {
     font-family: tahoma;
     text-align: center;
 }
+
+section {
+    border: 15px solid brown;
+    padding: 30px;
+    margin: 20px;
+}
+
+section p {
+    color: brown;
+}
