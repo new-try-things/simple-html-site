@@ -11,8 +11,9 @@ section {
     border: 15px solid brown;
     padding: 30px;
     margin: 20px;
+    background-color: brown;
 }
 
 section p {
-    color: brown;
+    color: white;
 }
